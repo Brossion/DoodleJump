@@ -1,0 +1,23 @@
+﻿  DragonsLakeIT.cpp
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(134,44): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(135,42): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(185,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(190,49): warning C4244: 'argument': conversion from 'const float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(190,31): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(192,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(195,26): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(210,42): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(213,33): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(234,42): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(284,26): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(291,32): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(311,43): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(338,29): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(380,37): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(448,28): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating code
+  1 of 249 functions ( 0.4%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  DragonsLakeIT.vcxproj -> C:\Users\Brossion\source\repos\DragonsLakeIT\x64\Release\DragonsLakeIT.exe

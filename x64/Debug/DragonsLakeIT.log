@@ -1,0 +1,5 @@
+﻿  DragonsLakeIT.cpp
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(116,34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(117,34): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Brossion\source\repos\DragonsLakeIT\DragonsLakeIT.cpp(156,35): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+LINK : fatal error LNK1168: cannot open C:\Users\Brossion\source\repos\DragonsLakeIT\x64\Debug\DragonsLakeIT.exe for writing
